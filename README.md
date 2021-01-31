@@ -1,4 +1,6 @@
 # Tag_Your_Photo
+Erstellt mit Delphi XE.
+
 ## Was ist "Tag your Photo"?
 "Tag your Photo" ist ein einfaches Werkzeug zum komfortablen Erstellen, Editieren und Kopieren von Schlagwortlisten. Die Liste der Schlagworte kann in weiten Grenzen formatiert und per Mausklick in die Zwischenablage kopiert werden. Von dort aus kann die Schlagwortliste z.B. in das Eingabefeld eines Foto-Portals eingefügt werden.
 
