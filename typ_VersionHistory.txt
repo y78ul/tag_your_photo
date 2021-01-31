@@ -1,0 +1,21 @@
+Version 0.0 16.01.2012
+Erste Version mit Grundfeatures:
+ - Laden und Speichern von TagLists (Textfiles)
+ - Definierbarer Separator
+ - Ausgabe der Wörter (Zeilen) der Taglist in ein Vorschaufenster, getrennt durch den definierten Separator
+ - Kopieren der Vorschau in die Zwischenablage (zum Einfügen in entsprechende Verschlagwortungs-Dialoge im Web)
+ - Umlaute können bei Bedarf geändert und gleichzeitig in geänderter und ungeänderter Version ausgegeben werden
+ - Speichern/Laden von zuletzt geladener TagList und Separator in/aus der Registry (Umlaut-Konfig noch nicht)
+
+Version 0.1 24.01.2012
+ - Aktionen werden jetzt über ActionList verwaltet
+ - Neben Speichern und Laden zwei neue Aktionen: Löschen der aktuell geladenen TagList und Anfügen einer anderen Taglist an die aktuell geladenen TagList
+ - Optionen zum Ändern und zweifach Ausgeben von Umlauten werden jetzt auch in der Registry gespeichert
+ - Modified-Flag des Memos wird jetzt nicht nur beim Verlassen des Programmes sondern auch beim Laden eines neuen Files ausgewertet
+
+todo:
+ - Code für Modified-Flag beim Verlassen und Laden ist gleich --> zusammenfassen
+ - MainMenu
+ - AboutBox
+ - Setup
+ - Webseite

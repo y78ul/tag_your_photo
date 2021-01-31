@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.790,=D:\DPR\LM Project Group\Common\waaRegistry.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.733,D:\DPR\TagYourPhoto\p_typ.dproj=C:\Documents and Settings\steinke\My Documents\RAD Studio\Projekte\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.717,=D:\DPR\TagYourPhoto\typ_VersionHistory.txt</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.125,D:\DPR\TagYourPhoto\u_typ1.pas=C:\Documents and Settings\steinke\My Documents\RAD Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.209,=C:\Documents and Settings\steinke\My Documents\RAD Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.678,=D:\DPR\Common\WAA.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.125,D:\DPR\TagYourPhoto\u_typ1.dfm=C:\Documents and Settings\steinke\My Documents\RAD Studio\Projekte\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.140,D:\DPR\TagYourPhoto\TagYourPhoto.dproj=D:\DPR\TagYourPhoto\p_typ.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.991,D:\DPR\Common\WAA.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
