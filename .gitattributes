@@ -1,0 +1,8 @@
+*.pas linguist-detectable=true
+*.dfm linguist-detectable=false
+*.dpr linguist-detectable=true
+*.txt linguist-detectable=false
+*.dproj linguist-detectable=false
+*.dsk linguist-detectable=false
+*.htm linguist-detectable=false
+*.css linguist-detectable=false
